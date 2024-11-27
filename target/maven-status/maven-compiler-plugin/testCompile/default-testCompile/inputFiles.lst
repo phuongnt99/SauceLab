@@ -1,0 +1,16 @@
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/common/BaseTest.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/listeners/CucumberHooks.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/runners/smoketest/RunnerBase.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/runners/smoketest/app/LoginSuccessRunnerTest.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/runners/smoketest/app/LoginUnsuccessRunnerTest.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/runners/smoketest/app/MenuRunnerTest.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/runners/smoketest/app/NavbarRunnerTest.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/runners/smoketest/app/SeriesListUIRunnerTest.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/runners/smoketest/app/ToolbarRunnerTest.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/screens/smoketest/app/HomepageScreen.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/screens/smoketest/app/LoginScreen.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/screens/smoketest/app/SeriesListScreen.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/screens/smoketest/app/YourCartScreen.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/stepsdef/smoketest/app/HomeStepsDef.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/stepsdef/smoketest/app/LoginStepsDef.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/test/java/stepsdef/smoketest/app/SeriesListStepsDef.java

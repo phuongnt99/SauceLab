@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_Suite_SmokeTest">
+    <test name="Tests_Homepage">
+        <parameter name="emulator" value="true" />
+        <parameter name="platformName" value="Android" />
+        <classes>
+            <class name="runners.smoketest.app.NavbarRunnerTest" />
+            <class name="runners.smoketest.app.MenuRunnerTest" />
+            <class name="runners.smoketest.app.ToolbarRunnerTest" />
+        </classes>
+    </test>
+</suite>

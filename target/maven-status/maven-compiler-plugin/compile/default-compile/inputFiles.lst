@@ -1,0 +1,13 @@
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/constant/Constant.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/constant/GlobalParamKey.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/constant/OsType.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/drivers/DriverManager.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/drivers/GlobalParams.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/drivers/PropertyManager.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/drivers/UiAutomator2OptionsManage.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/helper/VideoManager.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/server/ServerManager.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/utils/BrowserStackUtils.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/utils/ConvertStringToArray.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/utils/SystemHelpers.java
+/home/nguyen.thi.phuonge/Downloads/mobile-appium-automation/SauceLab/src/main/java/utils/TestUtils.java

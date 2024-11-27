@@ -1,0 +1,14 @@
+2024-11-27 12:26:11:743 [Appium] Welcome to Appium v2.11.5 (REV deac4e0932eb3031656cdcbe12f0a7be2cacb69f)
+2024-11-27 12:26:11:748 [Appium] Non-default server args:
+2024-11-27 12:26:11:751 [Appium] { sessionOverride: true }
+2024-11-27 12:26:11:752 [Appium] The autodetected Appium home path: /home/nguyen.thi.phuonge/.appium
+2024-11-27 12:26:11:752 [Appium] Attempting to load driver uiautomator2...
+2024-11-27 12:26:11:754 [Appium] Attempting to load driver xcuitest...
+2024-11-27 12:26:11:754 [Appium] Attempting to load driver flutter...
+2024-11-27 12:26:11:780 [Appium] Requiring driver at /home/nguyen.thi.phuonge/.appium/node_modules/appium-uiautomator2-driver/build/index.js
+2024-11-27 12:26:11:790 [Appium] Requiring driver at /home/nguyen.thi.phuonge/.appium/node_modules/appium-xcuitest-driver/build/index.js
+2024-11-27 12:26:11:791 [Appium] Requiring driver at /home/nguyen.thi.phuonge/.appium/node_modules/appium-flutter-driver/build/lib/driver.js
+2024-11-27 12:26:15:438 [Appium] AndroidUiautomator2Driver has been successfully loaded in 3.684s
+2024-11-27 12:26:15:438 [Appium] XCUITestDriver has been successfully loaded in 3.684s
+2024-11-27 12:26:15:439 [Appium] FlutterDriver has been successfully loaded in 3.684s
+2024-11-27 12:26:15:463 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.

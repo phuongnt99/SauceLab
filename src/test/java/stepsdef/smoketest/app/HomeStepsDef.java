@@ -11,7 +11,6 @@ import screens.smoketest.app.HomepageScreen;
 import screens.smoketest.app.LoginScreen;
 import screens.smoketest.app.YourCartScreen;
 
-
 import java.io.IOException;
 import java.util.Properties;
 
@@ -87,17 +86,17 @@ public class HomeStepsDef {
     }
 
     @When("I click on the toggle-view button")
-    public void pressViewToggle(){
+    public void pressViewToggle() {
         new HomepageScreen().pressViewToggle();
     }
 
     @Then("The view should display 1 image only")
-    public void isProductItem1(){
+    public void isProductItem1() {
         Assert.assertTrue(new HomepageScreen().isProductItem1());
     }
 
     @Given("The view is in 1 image view mode")
-    public void isProductItem2(){
+    public void isProductItem2() {
         Assert.assertTrue(new HomepageScreen().isProductItem2());
     }
 
@@ -107,8 +106,12 @@ public class HomeStepsDef {
     }
 
     @Then("The filter popup is opened")
-    public void isFilterPopup(){
+    public void isFilterPopup() {
         Assert.assertTrue(new HomepageScreen().isFilterPopup());
     }
 
+    @Then("I should see Product List")
+    public void isProductList() {
+        Assert.assertTrue(new HomepageScreen().isProductList());
+    }
 }

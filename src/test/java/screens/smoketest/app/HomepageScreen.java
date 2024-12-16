@@ -5,8 +5,6 @@ import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.iOSXCUITFindBy;
 import org.openqa.selenium.WebElement;
 
-import java.awt.*;
-
 public class HomepageScreen extends BaseTest {
 
     @AndroidFindBy(accessibility = "test-Menu")
@@ -47,6 +45,14 @@ public class HomepageScreen extends BaseTest {
     @iOSXCUITFindBy()
     private WebElement productsItem;
 
+    @AndroidFindBy(xpath = "//android.widget.ScrollView[@content-desc=\"test-PRODUCTS\"]/android.view.ViewGroup")
+    @iOSXCUITFindBy()
+    private WebElement productsList;
+
+    public boolean isProductList() {
+        return find(productsList, 1);
+    }
+
     public void testLoginAndNavigateToHome() {
         LoginScreen loginScreen = new LoginScreen();
         loginScreen.getDriver();
@@ -66,9 +72,13 @@ public class HomepageScreen extends BaseTest {
         click(swaglabsLogo);
     }
 
-    public void pressViewToggle() {click(viewToggle);}
+    public void pressViewToggle() {
+        click(viewToggle);
+    }
 
-    public void pressFilterButton(){click(filterButton);}
+    public void pressFilterButton() {
+        click(filterButton);
+    }
 
     public boolean isMenuIcon() {
         return find(menuIcon, 1);
@@ -114,8 +124,7 @@ public class HomepageScreen extends BaseTest {
         return find(textItem2, 1);
     }
 
-    public boolean isFilterPopup(){
+    public boolean isFilterPopup() {
         return find(filterPopup, 1);
     }
-
 }

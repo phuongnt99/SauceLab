@@ -8,6 +8,7 @@
             <class name="runners.smoketest.app.NavbarRunnerTest" />
             <class name="runners.smoketest.app.MenuRunnerTest" />
             <class name="runners.smoketest.app.ToolbarRunnerTest" />
+            <class name="runners.smoketest.app.HomeRunnerTest" />
         </classes>
     </test>
 </suite>
